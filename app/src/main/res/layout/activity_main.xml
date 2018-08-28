@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:slide="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.lyx.auto.SlideView
+        android:id="@+id/sv_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        slide:dotFocus="@drawable/icon_home_slide_focus"
+        slide:dotNormal="@drawable/icon_home_slide_normal"
+        slide:intervalTime="3"
+        slide:placeHolderImage="@mipmap/five" />
+
+</android.support.constraint.ConstraintLayout>
