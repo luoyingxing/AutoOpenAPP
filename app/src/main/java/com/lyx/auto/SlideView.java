@@ -27,9 +27,8 @@ import com.facebook.drawee.generic.GenericDraweeHierarchy;
 import com.facebook.drawee.generic.GenericDraweeHierarchyBuilder;
 import com.facebook.drawee.interfaces.DraweeController;
 import com.facebook.drawee.view.SimpleDraweeView;
-import com.lyx.frame.R;
-import com.lyx.frame.annotation.ImageUrl;
-import com.lyx.frame.slide.animator.TransFormFactory;
+
+import com.lyx.auto.animator.TransFormFactory;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;

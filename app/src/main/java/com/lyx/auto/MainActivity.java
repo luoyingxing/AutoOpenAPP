@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
         List<String> list = new ArrayList<>();
         list.add("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1927821551,3520994304&fm=26&gp=0.jpg");
         list.add("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1204267144,1810294424&fm=26&gp=0.jpg");
-        list.add("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4102464850,436428774&fm=26&gp=0.jpg");
-        list.add("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2346963790,2728725499&fm=26&gp=0.jpg");
+        list.add("http://img2.imgtn.bdimg.com/it/u=292814720,3759197718&fm=26&gp=0.jpg");
+        list.add("http://e.hiphotos.baidu.com/zhidao/pic/item/a8773912b31bb0515407da93347adab44aede06e.jpg");
         return list;
     }
 }
