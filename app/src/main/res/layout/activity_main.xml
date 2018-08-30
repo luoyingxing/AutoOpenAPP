@@ -13,6 +13,6 @@
         slide:dotFocus="@drawable/icon_home_slide_focus"
         slide:dotNormal="@drawable/icon_home_slide_normal"
         slide:intervalTime="3"
-        slide:placeHolderImage="@drawable/ic_launcher_background" />
+        slide:placeHolderImage="@mipmap/s" />
 
 </android.support.constraint.ConstraintLayout>
